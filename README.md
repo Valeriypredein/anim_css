@@ -2,4 +2,4 @@
 
 ![CI](https://github.com/Valeriypredein/anim_css/actions/workflows/web.yml/badge.svg)
 
-![Статус сборки](https://github.com/Valeriypredein/anim_css/actions/web.yml/badge.svg)
+![Статус сборки](https://github.com/Valeriypredein/anim_css/actions/workflows/web.yml/badge.svg)
